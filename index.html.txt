@@ -1,20 +1,21 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-   <meta charset="UTF-8">
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Mi página web</title>
-   <link rel="stylesheet" href="estilos.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agencia de Viajes</title>
+    <link rel="stylesheet" href="estilos.css">
 </head>
 <body>
-   <header>
-      <h1>Bienvenido a mi página web</h1>
-   </header>
-   <main>
-      <p>Esta es una página web básica creada con HTML y CSS.</p>
-   </main>
-   <footer>
-      <p>&copy; 2023 - Todos los derechos reservados.</p>
-   </footer>
+    <img src="logo/WILL STYLE logo.png" alt="Logo de willstyleshop">
+        <h1>Agencia de Viajes</h1>
+    </header>
+    <main>
+        <p>Bienvenido a nuestra agencia de viajes y turismo.</p>
+        <!-- Agrega más contenido aquí -->
+    </main>
+    <footer>
+        <p>&copy; 2023 Willstyleshop. Todos los derechos reservados.</p>
+    </footer>
 </body>
 </html>
