@@ -7,15 +7,14 @@
     <link rel="stylesheet" href="estilos.css">
 </head>
 <body>
-    <header>
-        <h1>Agencia de Viajes</h1>
-    </header>
+    <img src="logo/WILL_STYLE_logo.png" alt="Logo de willstyleshop">
+    <h1>Agencia de Viajes</h1>
     <main>
         <p>Bienvenido a nuestra agencia de viajes y turismo.</p>
         <!-- Agrega más contenido aquí -->
     </main>
     <footer>
-        <p>&copy; 2023 Willstyleshop. Todos los derechos reservados.</p>
+        <p>&copy; 2023 Tienda Willstyle. Todos los derechos reservados.</p>
     </footer>
 </body>
 </html>
