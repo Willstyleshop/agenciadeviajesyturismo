@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agencia de Viajes</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+<<<<<<< HEAD
+    <img src="logo/WILL_STYLE_logo.png" alt="Logo de willstyleshop">
+    <h1>Agencia de Viajes</h1>
+=======
+    <img src="logo/WILL STYLE logo.png" alt="Logo de willstyleshop">
+        <h1>Agencia de Viajes</h1>
+    </header>
+>>>>>>> 942ba17c5af9c43d4f723a27d04d0756acd7d750
+    <main>
+        <p>Bienvenido a nuestra agencia de viajes y turismo.</p>
+        <!-- Agrega más contenido aquí -->
+    </main>
+    <footer>
+<<<<<<< HEAD
+        <p>&copy; 2023 Tienda Willstyle. Todos los derechos reservados.</p>
+=======
+        <p>&copy; 2023 Willstyleshop. Todos los derechos reservados.</p>
+>>>>>>> 942ba17c5af9c43d4f723a27d04d0756acd7d750
+    </footer>
+</body>
+</html>
